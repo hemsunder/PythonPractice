@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Automation1/.idea/Automation1.iml" filepath="$PROJECT_DIR$/../Automation1/.idea/Automation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LOC/.idea/LOC.iml" filepath="$PROJECT_DIR$/../LOC/.idea/LOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyFirstProject/.idea/PythonLanguage.iml" filepath="$PROJECT_DIR$/../MyFirstProject/.idea/PythonLanguage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonPractice1.iml" filepath="$PROJECT_DIR$/.idea/PythonPractice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Qfund/.idea/Qfund.iml" filepath="$PROJECT_DIR$/../Qfund/.idea/Qfund.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SeleniumProject1/.idea/SeleniumProject1.iml" filepath="$PROJECT_DIR$/../SeleniumProject1/.idea/SeleniumProject1.iml" />
+    </modules>
+  </component>
+</project>
