@@ -16,6 +16,8 @@
       <change beforePath="$PROJECT_DIR$/../LOC/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LOC/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LOC/pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LOC/pages/LoginPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LOC/tests/Qfund_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LOC/tests/Qfund_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LOC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XpdyVGxnnECJfbYcntbgqxUrW6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ConstructorInInheritance3">
-    <configuration name="ConstructorInInheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Generator2">
+    <configuration name="DuckTypingPolymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractice1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\HEM\PycharmProjects\PythonPractice1\Oops\ConstructorInInheritance1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/DuckTypingPolymorphism.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ConstructorInInheritance2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Generator1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractice1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/ConstructorInInheritance2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generators/Generator1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ConstructorInInheritance3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Generator2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractice1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/ConstructorInInheritance3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generators/Generator2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InnerClass1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MethodOverloading" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractice1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/InnerClass1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/MethodOverloading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InnerClass2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MethodOverriding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractice1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/InnerClass2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/MethodOverriding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ConstructorInInheritance3" />
-        <item itemvalue="Python.ConstructorInInheritance2" />
-        <item itemvalue="Python.ConstructorInInheritance" />
-        <item itemvalue="Python.InnerClass2" />
-        <item itemvalue="Python.InnerClass1" />
+        <item itemvalue="Python.Generator2" />
+        <item itemvalue="Python.Generator1" />
+        <item itemvalue="Python.MethodOverriding" />
+        <item itemvalue="Python.MethodOverloading" />
+        <item itemvalue="Python.DuckTypingPolymorphism" />
       </list>
     </recent_temporary>
   </component>
